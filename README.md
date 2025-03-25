@@ -7,3 +7,6 @@ Generate cold email based on Job links tailored to your profile and tech stack u
 
 ## Architecture Diagram
 <img width="831" alt="Screenshot 2025-03-26 at 03 06 11" src="https://github.com/user-attachments/assets/03fb8f8f-b65a-4c80-9f57-9500361e67a3" />
+
+## Data to be read into Vector DB
+<img width="825" alt="Screenshot 2025-03-26 at 03 14 30" src="https://github.com/user-attachments/assets/c06d3e44-44f9-4cda-9a96-95e84725d4b8" />
